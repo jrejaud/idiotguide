@@ -63,9 +63,9 @@ I'll add Data Structures and other CS courses here later once I find where I sav
 Ding! Grats! You're level 10 now. You get to put your first talent point in a specialization tree. 
 In the current software engineering environment, there are three-ish main specializations:
 
-1. Mobile: Writing Android and iOS apps (Windows phone too if you've a masochist, I guess).
-2. Frontend: You make websites.
-3. Backend: You make the database that websites and mobile apps talk to.
+1. **Mobile**: You make Android and iOS apps (Windows phone too if you've a masochist, I guess).
+2. **Frontend**: You make websites.
+3. **Backend**: You make the database/ logic "engine" that websites and mobile apps talk to.
 
 ###Mobile
 
